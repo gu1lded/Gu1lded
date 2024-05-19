@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xenophry" alt="xenophry" /></a> </p>
 
-- 🔭 I’m currently working on [Nexure](https://discord.gg/JMshjF2EWb)
+- 🔭 I’m currently working on [Nexura](https://discord.gg/G6f6P5px6G)
 
 - 🌱 I’m currently learning **Nothing at the moment…**
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/JMshjF2EWb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="JMshjF2EWb" height="30" width="40" /></a>
+<a href="[https://discord.gg/G6f6P5px6G]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="JMshjF2EWb" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
