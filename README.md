@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Xenophry</h1>
+<h1 align="center">Hi 👋, I'm Pryorx</h1>
 <h3 align="center">A passionate developer from England</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xenophry&label=Profile%20views&color=0e75b6&style=flat" alt="xenophry" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pryorx&label=Profile%20views&color=0e75b6&style=flat" alt="xenophry" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xenophry" alt="xenophry" /></a> </p>
 
-- 🔭 I’m currently working on [Nexura](https://discord.gg/G6f6P5px6G)
+- 🔭 I’m currently working on [ByteN3X](https://discord.gg/G6f6P5px6G)
 
 - 🌱 I’m currently learning **Nothing at the moment…**
 
